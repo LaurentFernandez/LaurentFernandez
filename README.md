@@ -2,7 +2,7 @@
 
 <p align="center">
 <strong>Desarrollador y Analista de Software</strong><br>
-Tecnólogo en Análisis y Desarrollo de Software · Estudiante de Ingeniería de Software
+Tecnólogo en Análisis y Desarrollo de Software - SENA · Estudiante de Ingeniería de Software
 </p>
 
 <p align="center">
