@@ -6,6 +6,7 @@ Tecnólogo en Análisis y Desarrollo de Software - SENA · Estudiante de Ingenie
 </p>
 
 <p align="center">
+<a href="https://laurentfernandez.github.io/portafolio/"><img src="https://img.shields.io/badge/Portafolio-Visitar-F2A541?style=flat-square" alt="Portafolio"></a>
 <a href="https://www.linkedin.com/in/andr%C3%A9s-fernandez-413098213"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=flat-square" alt="LinkedIn"></a>
 <a href="https://nygsoft.com"><img src="https://img.shields.io/badge/Trabajo_en-NyGsoft-24292F?style=flat-square" alt="NyGsoft"></a>
 </p>
